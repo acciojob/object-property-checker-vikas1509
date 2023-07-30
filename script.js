@@ -4,12 +4,14 @@ function hasKey(key) {
   //   write your code here
 	let k = object.keys(sampleObject);
 	k.forEach((item)=>
+	
 		if(item==key){
-			return true;
+		prompt("true")
 		}
 		else{return false}
 		
 	)
+
 	
 	
 }
