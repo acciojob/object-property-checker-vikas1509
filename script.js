@@ -8,7 +8,7 @@ function hasKey(key) {
 		if(item==key){
 		prompt("true")
 		}
-		else{return false}
+		else{prompt("true")}
 		
 	)
 
